@@ -1,0 +1,38 @@
+td.unopened {
+    background-image: url('assets/img/unopened.svg');
+    cursor: pointer;
+}
+td.opened {
+    background: url('assets/img/opened.svg');
+}
+td.flagged {
+    background: url('./assets/img/flag.svg');
+    cursor: pointer;
+}
+td.mine {
+    background: url('assets/img/mine.png');
+}
+td.mine-neighbour-1 {
+    background: url('assets/img/1.svg');
+}
+td.mine-neighbour-2 {
+    background: url('assets/img/2.svg');
+}
+td.mine-neighbour-3 {
+    background: url('assets/img/3.svg');
+}
+td.mine-neighbour-4 {
+    background: url('assets/img/4.svg');
+}
+td.mine-neighbour-5 {
+    background: url('assets/img/5.svg');
+}
+td.mine-neighbour-6 {
+    background: url('assets/img/6.svg');
+}
+td.mine-neighbour-7 {
+    background: url('assets/img/7.svg');
+}
+td.mine-neighbour-8 {
+    background: url('assets/img/8.svg');
+}
