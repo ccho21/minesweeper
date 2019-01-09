@@ -1,12 +1,9 @@
 # mind_sweeper
-
 > A Vue.js project
-  - 
 
-
-
-
-
+#### This is a simple minesweeper app using Vue.js
+  - Focused on increasing performance of the app using recursive
+  - Used Vue axios to route 
 
 
 ![minesweeper-01](https://user-images.githubusercontent.com/19483811/50934616-1fc0da00-1437-11e9-8c83-a9fc23c16130.PNG)
